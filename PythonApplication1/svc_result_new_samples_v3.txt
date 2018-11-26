@@ -1,0 +1,16 @@
+################################### n_components: 30
+             precision    recall  f1-score   support
+
+   pollen 0       0.97      0.96      0.97       742
+   pollen 1       0.96      0.97      0.96       698
+
+avg / total       0.97      0.97      0.97      1440
+
+################################### n_components: 25
+             precision    recall  f1-score   support
+
+   pollen 0       0.96      0.95      0.96       742
+   pollen 1       0.95      0.96      0.95       698
+
+avg / total       0.95      0.95      0.95      1440
+
